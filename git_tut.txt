@@ -1,0 +1,5 @@
+git status   //to check the status
+git add . //to put the files from working directory to staging area
+git commit -m "message to be sent"   // to commit
+git   git config --global user.email "you@example.com"    //to enter the email id 
+git log //to see the information about the author
